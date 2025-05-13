@@ -50,7 +50,7 @@ ACCC, Apr 2022 – Jun 2022
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-## Professional Designations and Certifications
+## Certifications
 ### Cloud
 * Microsoft Power BI Data Analyst Associate
 * AWS Certified Cloud Practitioner
