@@ -46,15 +46,15 @@ ACCC, Apr 2022 – Jun 2022
 * Checked data integrity and ensure data governance policy is maintained.
 
 ## Education
-* Charles Sturt University, Graduate Certificate in Applied Data Science, 2022 GPA 6.5 out of 7
+* [Charles Sturt University, Graduate Certificate in Applied Data Science](https://www.myequals.net/sharelink/b685bd77-3baa-4aec-be40-16c5920776b3/d8b75971-d999-43f9-a4dd-11b531ba1c8b), 2022 GPA 6.5 out of 7
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
 ## Certifications
 ### Data and Cloud
-* [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)
+* [Microsoft Power BI Data Analyst Associate PL-300](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
-* [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
+* [Oracle Database SQL Certified Associate 1Z0-071](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
 * [SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 
 ### Project Management
