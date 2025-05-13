@@ -1,8 +1,8 @@
-Benjamin Blackswan
+# Benjamin Blackswan
 Email: Benjamin_blackswan@outlook.com   |   Mobile: 0431 699 336    |    linkedin.com/in/benjaminblackswan
     
 
-Experiences
+## Experiences
 ACT Health, Digital Solutions Division, TS Hub
 SQL Databases Technical Specialist, Sep 2024 - Present
 •	Maintaining Cogito ETL and DBA processes for EPIC Systems
@@ -52,7 +52,7 @@ Mortgage, Certifier, Apr 2015 – Aug 2015
 ●	Approved refinance, purchase settlement and third party settlement using CommSee software.
 ●	Created final settlements using LegalStream and SAI Global.
 ●	Created automated settlement instruction using Excel. 
-Education
+## Education
 •	Charles Sturt University
 Graduate Certificate in Applied Data Science, 2022 GPA 6.5 out of 7
 •	Australian National University
@@ -76,7 +76,7 @@ o	Financial Modeling & Valuation Analyst (FMVA) designation, awarded 2020
 o	CFA Passed Level 2 in 2019
 o	Chartered Alternative Investment Analyst Passed CAIA level I
 
-Certificates
+## Certificates
 	Google Project Management Professional Certificate, May 2023
 	Google Data Analyst Professional Certificate, 2022
 	Excel Skills for Business Specialization, Macquarie University via Coursera, 2020
@@ -86,9 +86,15 @@ Language Certificates
 Chinese Language Proficiency test - HSK 6, 2015                                         
 Japanese Language Proficiency Test - JLPT N3, 2014
 	
-Skills
+## Skills
 Computer Skills: AWS, Excel, Word, Outlook, PowerPoint, MS Project and Tableau
 Programming languages: SAS, Python, HTML, SQL, R and VBA
 Languages Skills: Mandarin Chinese (native), Japanese (intermediate)
 
-References available upon request.
+
+
+
+
+
+
+## About me
