@@ -51,19 +51,19 @@ ACCC, Apr 2022 – Jun 2022
 * Macquarie University, Bachelor of Applied Finance, 2016
 
 ## Certifications
-### Data and Technology
-* Microsoft Power BI Data Analyst Associate
+### Data and Cloud
+* [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
-* Oracle Database SQL Certified Associate, 2023
-* SAS Certified Specialist: Base Programming Using SAS 9.4, Dec 2022
+* [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
+* [SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 
 ### Project Management
-* Certified Associate in Project Management (CAPM), 2023
+* [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
 ### Finance
 * CFA Passed Level 2 in 2019
 * Chartered Alternative Investment Analyst Passed CAIA level I
-* Financial Modeling & Valuation Analyst (FMVA) designation, awarded 2020
+* [Financial Modeling & Valuation Analyst (FMVA) designation](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)
 
 ### Language
 * Chinese Language Proficiency test - HSK 6, 2015                                         
