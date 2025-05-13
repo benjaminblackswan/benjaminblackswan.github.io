@@ -1,5 +1,7 @@
 # Benjamin Blackswan
-Email: Benjamin_blackswan@outlook.com   |   Mobile: 0431 699 336    |    linkedin.com/in/benjaminblackswan
+Email: Benjamin_blackswan@outlook.com   |   Mobile: 0431 699 336  
+
+[Little shit](https://www.facebook.com/photo/?fbid=3401309036567034&set=pob.100016816992199)
     
 
 ## Experiences
@@ -93,7 +95,7 @@ Languages Skills: Mandarin Chinese (native), Japanese (intermediate)
 
 
 
-
+[Little shit](https://www.facebook.com/photo/?fbid=3401309036567034&set=pob.100016816992199)
 
 
 
