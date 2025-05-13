@@ -1,4 +1,4 @@
-<p align="center"> Benjamin Blackswan </p> new branch2
+<p align="center"> Benjamin Blackswan </p>
 
 <p align="center"> Email: Benjamin_blackswan@outlook.com   |   Mobile: 0431 699 336  | benjaminblackswan.github.io </p>
     
@@ -51,11 +51,9 @@ ACCC, Apr 2022 – Jun 2022
 * Macquarie University, Bachelor of Applied Finance, 2016
 
 ## Certifications
-### Cloud
+### Data and Technology
 * Microsoft Power BI Data Analyst Associate
-* AWS Certified Cloud Practitioner
-
-### Programming
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
 * Oracle Database SQL Certified Associate, 2023
 * SAS Certified Specialist: Base Programming Using SAS 9.4, Dec 2022
 
