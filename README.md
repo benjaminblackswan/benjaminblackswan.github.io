@@ -55,40 +55,23 @@ ACCC, Apr 2022 – Jun 2022
 * Microsoft Power BI Data Analyst Associate
 * AWS Certified Cloud Practitioner
 
-
-### Project Management
-* Certified Associate in Project Management (CAPM), 2023
 ### Programming
 * Oracle Database SQL Certified Associate, 2023
 * SAS Certified Specialist: Base Programming Using SAS 9.4, Dec 2022
-* Financial Modeling & Valuation Analyst (FMVA) designation, awarded 2020
+
+### Project Management
+* Certified Associate in Project Management (CAPM), 2023
 
 ### Finance
 * CFA Passed Level 2 in 2019
 * Chartered Alternative Investment Analyst Passed CAIA level I
 * Financial Modeling & Valuation Analyst (FMVA) designation, awarded 2020
 
-Language Certificates
-Chinese Language Proficiency test - HSK 6, 2015                                         
-Japanese Language Proficiency Test - JLPT N3, 2014
+### Language
+* Chinese Language Proficiency test - HSK 6, 2015                                         
+* Japanese Language Proficiency Test - JLPT N3, 2014
 	
 ## Skills
 Computer Skills: AWS, Excel, Word, Outlook, PowerPoint, MS Project and Tableau
 Programming languages: SAS, Python, HTML, SQL, R and VBA
 Languages Skills: Mandarin Chinese (native), Japanese (intermediate)
-
-
-
-
-
-## About me
-
- <!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html> 
