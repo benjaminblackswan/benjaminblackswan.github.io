@@ -6,14 +6,14 @@
 ## Experiences
 
 
-**SQL Databases Technical Specialist**
+**SQL Server Database Specialist, ASO6**
 
 ACT Health, Sep 2024 - Present
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 
 
 
-**Data Analyst**
+**Senior Data Analyst, ASO5**
 
 ACT Community Services Directorate, Apr 2023 – Sep 2024
 
@@ -27,7 +27,7 @@ ACT Community Services Directorate, Apr 2023 – Sep 2024
 * Led Azure DevOps board for sprint planning.
 
 
-**Data Analyst**
+**Data Analyst, APS4**
 
 Australian Bureau of Statistics, Aug 2022 – Apr 2023
 * Tested SAS codes and pipeline as part of the ABS’s Big Data Timely Insights upgrade.
@@ -37,7 +37,7 @@ Australian Bureau of Statistics, Aug 2022 – Apr 2023
 * Used SAS programming, AWS cloud, VBA, SQL and Python.
 
 
-**Data Entry Clerk**
+**Data Entry, APS3**
 
 ACCC, Apr 2022 – Jun 2022
 * Remediated large sets of data in Microsoft Dynamics and Excel.
@@ -52,10 +52,13 @@ ACCC, Apr 2022 – Jun 2022
 
 ## Certifications
 ### Data and Cloud
-* [Microsoft Power BI Data Analyst Associate PL-300](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)
-* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
-* [Oracle Database SQL Certified Associate 1Z0-071](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
-* [SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
+
+|Organisation|Certification Name|Date Awarded|Date of Expiration|
+|-------------|------------|------------|------------|
+|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|2024-06-09|2026-06-09|
+|Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|2023-12-29|Does Not Expire|
+|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
+|SAS Institute|[Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|2022-12-06|Does Not Expire|
 
 ### Project Management
 * [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
