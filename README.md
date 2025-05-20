@@ -6,7 +6,7 @@
 ## Experiences
 
 
-**SQL Server Database Specialist, ASO6 test**
+**SQL Server Database Specialist, ASO6**
 
 ACT Health, Sep 2024 - Present
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
@@ -56,6 +56,11 @@ ACCC, Apr 2022 – Jun 2022
 |Organisation|Certification Name|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|
 |Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|2024-06-09|2026-06-09|
+|Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|2024-06-19|Does not expire|
+|Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|2024-06-09|Does not expire|
+|Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|2024-06-09|Does not expire|
+|Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|2024-06-09|Does not expire|
+
 |Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|2023-12-29|Does Not Expire|
 |AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
 |SAS Institute|[Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|2022-12-06|Does Not Expire|
