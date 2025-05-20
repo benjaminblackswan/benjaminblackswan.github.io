@@ -60,10 +60,11 @@ ACCC, Apr 2022 – Jun 2022
 |Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|2024-06-09|Does not expire|
 |Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|2024-06-09|Does not expire|
 |Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|2024-06-09|Does not expire|
-
 |Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|2023-12-29|Does Not Expire|
-|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
 |SAS Institute|[Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|2022-12-06|Does Not Expire|
+|Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)|2025-03-22|2026-03-22|
+|Databricks|[Lakehouse Fundamentals](https://credentials.databricks.com/63b4b6de-b836-40e9-8229-c083df4fa17f)|2024-02-24|Expired|
+|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
 
 ### Project Management
 * [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
