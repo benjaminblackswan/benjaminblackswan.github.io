@@ -1,19 +1,17 @@
-<p align="center"> Benjamin Blackswan </p> change 2
-
-<p align="center"> Email: Benjamin_blackswan@outlook.com   |   Mobile: 0431 699 336  | benjaminblackswan.github.io </p>
+<p align="center"> Email: Benjamin_blackswan@outlook.com  | github.com/benjaminblackswan | benjaminblackswan.github.io </p>
     
 
 ## Experiences
 
 
-**SQL Server Database Specialist, ASO6**
+**SQL Server Database Specialist**
 
 ACT Health, Sep 2024 - Present
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 
 
 
-**Senior Data Analyst, ASO5**
+**Senior Data Analyst**
 
 ACT Community Services Directorate, Apr 2023 – Sep 2024
 
@@ -27,7 +25,7 @@ ACT Community Services Directorate, Apr 2023 – Sep 2024
 * Led Azure DevOps board for sprint planning.
 
 
-**Data Analyst, APS4**
+**Data Analyst**
 
 Australian Bureau of Statistics, Aug 2022 – Apr 2023
 * Tested SAS codes and pipeline as part of the ABS’s Big Data Timely Insights upgrade.
@@ -37,7 +35,7 @@ Australian Bureau of Statistics, Aug 2022 – Apr 2023
 * Used SAS programming, AWS cloud, VBA, SQL and Python.
 
 
-**Data Entry, APS3**
+**Data Entry**
 
 ACCC, Apr 2022 – Jun 2022
 * Remediated large sets of data in Microsoft Dynamics and Excel.
