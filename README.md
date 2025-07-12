@@ -53,6 +53,7 @@ ACCC, Apr 2022 – Jun 2022
 
 |Organisation|Certification Name|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|
+|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|2025-06-22|2026-06-23|
 |Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|2024-06-09|2026-06-09|
 |Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|2024-06-19|Does not expire|
 |Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|2024-06-09|Does not expire|
