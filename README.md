@@ -1,13 +1,24 @@
-<p align="center"> Email: Benjamin_blackswan@outlook.com  | github.com/benjaminblackswan | benjaminblackswan.github.io </p>
+# Benjamin Blackswan
     
 
-## Experiences
+### Experiences
 
 
 **SQL Server Database Specialist**
 
 ACT Health, Sep 2024 - Present
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
+* Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
+* Maintaining the health of SQL Server databases.
+* Scripting, running and troubleshooting stored procedures using T-SQL.
+* Maintaining SQL Server ad-hoc database backups and restoring them using SSMS.
+* Installed SQL Server instances on remote servers through virtual machines.
+* Automating routine maintenance tasks using SQL Agent jobs.
+* Assisting the ACT Health’s Data Capability team with their migration to Microsoft Fabric, including hands-on experience using data factory, Lakehouse and data warehouse.
+* Liasing, building and maintaining strong relationships with various internal (analysts and directors), vendors (Epic and Microsoft), consultants (NTT Data) and customers (Canberra Health Services) 
+* Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
+* Using SharePoint, OneNote and Confluence to create documentations.
+* Obtained Epic Systems Cogito Systems Administrator Certification.
 
 
 
@@ -43,13 +54,13 @@ ACCC, Apr 2022 – Jun 2022
 * Reviewed reports and documents to find missing data and correcting errors.
 * Checked data integrity and ensure data governance policy is maintained.
 
-## Education
+### Education
 * [Charles Sturt University, Graduate Certificate in Applied Data Science](https://www.myequals.net/sharelink/b685bd77-3baa-4aec-be40-16c5920776b3/d8b75971-d999-43f9-a4dd-11b531ba1c8b), 2022 GPA 6.5 out of 7
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-## Certifications
-### Data and Cloud
+### Certifications
+**Data and Cloud**
 
 |Organisation|Certification Name|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|
@@ -65,15 +76,15 @@ ACCC, Apr 2022 – Jun 2022
 |Databricks|[Lakehouse Fundamentals](https://credentials.databricks.com/63b4b6de-b836-40e9-8229-c083df4fa17f)|2024-02-24|Expired|
 |AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
 
-### Project Management
+**Project Management**
 * [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
-### Finance
+**Finance**
 * CFA Passed Level 2 in 2019
 * Chartered Alternative Investment Analyst Passed CAIA level I
 * [Financial Modeling & Valuation Analyst (FMVA) designation](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)
 
-### Language
+**Language**
 * Chinese Language Proficiency test - HSK 6, 2015                                         
 * Japanese Language Proficiency Test - JLPT N3, 2014
 	
@@ -81,3 +92,4 @@ ACCC, Apr 2022 – Jun 2022
 Computer Skills: AWS, Excel, Word, Outlook, PowerPoint, MS Project and Tableau
 Programming languages: SAS, Python, HTML, SQL, R and VBA
 Languages Skills: Mandarin Chinese (native), Japanese (intermediate)
+
