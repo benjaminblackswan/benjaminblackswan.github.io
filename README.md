@@ -1,4 +1,4 @@
-# Benjamin Blackswan
+# Benjamin Blackswan (NV1)
     
 
 ### Experiences
@@ -19,7 +19,6 @@ ACT Health, Sep 2024 - Present
 * Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
 * Using SharePoint, OneNote and Confluence to create documentations.
 * Obtained Epic Systems Cogito Systems Administrator Certification.
-
 
 
 **Senior Data Analyst**
@@ -75,6 +74,7 @@ ACCC, Apr 2022 – Jun 2022
 |Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)|2025-03-22|2026-03-22|
 |Databricks|[Lakehouse Fundamentals](https://credentials.databricks.com/63b4b6de-b836-40e9-8229-c083df4fa17f)|2024-02-24|Expired|
 |AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|2023-01-02|2026-01-01|
+|Epic Systems|Cogito Systems Administrator|2024-12-01|Does not expire|
 
 **Project Management**
 * [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
